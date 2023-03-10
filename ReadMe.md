@@ -2,11 +2,15 @@
 
 Our files are categorized into four frequencies, namely *_4kHz.xps, *_2kHz.xps, *_1kHz.xps, and *_500Hz.xps. While these files typically contain a curve chart, it lack the corresponding data. Our objective is to obtain the data, calculate each frequency's mean data, and generate a graph.
 
-This project comprises three ipynb files, and we kindly request that you follow the instructions below to execute them.
+This project comprises three ipynb files and one py file, and we kindly request that you follow the instructions below to execute them.
 
 #### Prj_XPS2CurveChart_01.ipynb
 
 - This part is convert xps/pdf file to the data of curve chart
+  
+  xps file looks like this:
+  
+  ![](D:\Code\Git\Prj_XPS2CurveChart\docs\xps_exemple.png)
 
 - Modify global variable: `ROOT` 
   

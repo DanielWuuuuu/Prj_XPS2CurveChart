@@ -10,7 +10,7 @@ This project comprises three ipynb files and one py file, and we kindly request 
   
   xps file looks like this:
   
-  ![](docs\xps_exemple.png)
+  ![](https://github.com/DanielWuuuuu/Prj_XPS2CurveChart/blob/master/docs/xps_exemple.png?raw=true)
 
 - Modify global variable: `ROOT` 
   

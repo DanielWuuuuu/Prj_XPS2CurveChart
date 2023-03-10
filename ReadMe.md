@@ -47,11 +47,13 @@ This project comprises three ipynb files, and we kindly request that you follow 
   │  │  └─ ..  
   │  ├─ 2kHz  
   │  │  └─ ..  
-  │  └─ 500Hz  
-  │     └─ ..  
+  │  ├─ 500Hz  
+  │  │  └─ ..  
+  │  └─ 00002_L_500-2000.xps  
   ├─ 00002_L_4000  
-  │  └─ 4kHz  
-  │     └─ ..  
+  │  ├─ 4kHz  
+  │  │  └─ ..  
+  │  └─ 00002_L_4000.xps  
   └─ ..  
   ```
 
@@ -65,7 +67,7 @@ This project comprises three ipynb files, and we kindly request that you follow 
 
 - Before excute this ipynb, the dir tree like:
   
-  ```  
+  ```
   ROOT  
   ├─ 00001_R  
   │  ├─ 1kHz  
@@ -82,11 +84,13 @@ This project comprises three ipynb files, and we kindly request that you follow 
   │  │  └─ ..  
   │  ├─ 2kHz  
   │  │  └─ ..  
-  │  └─ 500Hz  
-  │     └─ ..  
+  │  ├─ 500Hz  
+  │  │  └─ ..  
+  │  └─ 00002_L_500-2000.xps  
   ├─ 00002_L_4000  
-  │  └─ 4kHz  
-  │     └─ ..  
+  │  ├─ 4kHz  
+  │  │  └─ ..  
+  │  └─ 00002_L_4000.xps  
   └─ ..  
   ```
 
@@ -109,11 +113,13 @@ This project comprises three ipynb files, and we kindly request that you follow 
   │  │  └─ ..  
   │  ├─ 2kHz  
   │  │  └─ ..  
-  │  └─ 500Hz  
-  │     └─ ..  
+  │  ├─ 500Hz  
+  │  │  └─ ..  
+  │  └─ 00002_L_4000.xps  
   ├─ 00002_L_4000  
-  │  └─ 4kHz  
-  │     └─ ..  
+  │  ├─ 4kHz  
+  │  │  └─ ..  
+  │  └─ 00002_L_4000.xps  
   ├─ .. 
   └─ output  
      ├─ out_1kHz.csv  
@@ -168,5 +174,3 @@ This project comprises three ipynb files, and we kindly request that you follow 
      ├─ out_4kHz.png  
      └─ out_500Hz.png  
   ```
-  
-  
